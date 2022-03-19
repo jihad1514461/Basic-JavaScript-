@@ -1,0 +1,8 @@
+// Setup
+const myArray = [];
+let i = 11;
+
+// Only change code below this line
+do { 
+  myArray.push(i-1);
+} while (i == 10);
